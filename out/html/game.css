@@ -519,15 +519,15 @@ table {
 }
 
 /* Styles for parties */
-.seat.kpd {
+.seat.wpt {
     fill: #8B0000;
 }
-.seat.spd {
+.seat.uds {
     fill: #E3000F;
     stroke: #000;
     stroke-width: 1.5px;
 }
-.seat.ddp {
+.seat.cdp {
     fill: #DCCA4A;
 }
 .seat.z {
